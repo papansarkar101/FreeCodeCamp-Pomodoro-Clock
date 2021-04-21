@@ -1,2 +1,2 @@
-# App link at CodeSandBox -> [POMODORO Clock] (https://11yze.csb.app/)
+# Application link at CodeSandBox -> [POMODORO Clock](https://11yze.csb.app/)
 
